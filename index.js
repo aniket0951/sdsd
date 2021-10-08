@@ -3,4 +3,8 @@ function isWDS(string){
     return string === 'WDS'
 }
 
-module.exports = isWDS
+function isNumber(number){
+    return Number.isInteger(number)
+}
+
+module.exports = isWDS , isNumber
