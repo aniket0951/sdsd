@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "this is string wds",
+  "main": "index.js",
+  "scripts": {
+    "test": "wds"
+  },
+  "keywords": [
+    "stringcheck"
+  ],
+  "author": "aniket suryawanshi",
+  "license": "ISC"
+}
